@@ -2,10 +2,7 @@
 
 ![Header](https://github.com/fsj0591/fsj0591/blob/main/v2-9c9dd400bbc84c9c867e3abd7d866509_r.jpg?raw=true "Header")
 
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-
-My name is fsj0591. 
-
+# Hello! Welcome to my webpage <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 ## 🔧 Technologies & Tools
 
